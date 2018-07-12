@@ -19,6 +19,6 @@ Based on this data, by focusing on bringing more women into the game, this shoul
 The majority of players are between 20–24 years of age--depending on if you look at all screennames versus unique players, this majority accounts for approximately half of all players. Not surprisingly, the gross revenue aligns to ages. Further investigation should be done to see how to increase revenue for the other ages.
 
 # Most Popular + Most Profitable items
-The top 4 most popular items are each priced significantly higher than the average price and are also the top items contributing to gross revenue. . Put another way, these items have strong sales and bring in more gross revenue. 
+The top 4 most popular items are each priced significantly higher than the average price and are also the top items contributing to gross revenue. Put another way, these items have strong sales and bring in more gross revenue. This game company should consider further investigation into why these more expensive items are popular and use this as guidance for creating more in-game purchases that can boost the bottom line. 
 
 
